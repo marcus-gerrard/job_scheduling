@@ -24,4 +24,15 @@ PMX merging achieved significantly better results, most likely due to it better 
 Coming Soon
 
 ## Charts
-![Chart1]("Graphed Results"/"PMX Crossover with 300 Generations.png") 
+
+### PMX Merging with 300 Generations
+![Chart1](Graphed%20Results/PMX%20Crossover%20with%20300%20Generations.png)
+
+### PMX Merging with 1000 Generations
+![Chart2](Graphed%20Results/PMX%20Crossover%20with%201000%20Generations.png)
+
+### Random Crossover with 100 Generations
+![Chart3](Graphed%20Results/Random%20Crossover%20with%20100%20Generations.png)
+
+### Random Crossover with 7000 Generations
+![Chart4](Graphed%20Results/Random%20Crossover%20with%207000%20Generations.png)
