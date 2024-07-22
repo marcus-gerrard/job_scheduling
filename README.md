@@ -1,2 +1,4 @@
 # job_scheduling
-Job Scheduling problems with heuristic non-heuristic solutions
+This problem was originally found on OR-Library linked here: https://people.brunel.ac.uk/~mastjjb/jeb/orlib/schinfo.html
+
+
